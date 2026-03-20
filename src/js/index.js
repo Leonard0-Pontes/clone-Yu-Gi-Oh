@@ -1,4 +1,4 @@
-`/*
+`/* 
 
 OBJETIVO 1 - quando clicarmos na seta de avançar temos que mostrar o proximo 
 cartao da lista
